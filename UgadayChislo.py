@@ -75,11 +75,3 @@ while True:
         break
     
 
-    
-        
-
-#result = math.factorial(int(number))
-#print("Факториал числа", number, "равен", result)
-
-
-
